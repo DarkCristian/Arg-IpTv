@@ -45,8 +45,8 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png",TeleMax HD (Opcion 2)
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 
-#EXTINF:0 group-title="Noticias",Trece
-
+#EXTINF:0 group-title="Noticias" tvg-logo="https://2.bp.blogspot.com/-lSwLelo78ik/UnKcpUishtI/AAAAAAAAAM4/dj-BLSbgGqY/s1600/canal13-2.png",Trece
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584767777/ei/wE51Xv2qNJHcxwTrwYfgBA/ip/186.13.189.124/id/hqF_afzhLek.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882514/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhAODbLlyrZvz3q5sjCpTS9-lDuf4eQbuvWTGtKnd7aJJQAiBROBWKMFLbsDr-uR15tc1udzxVpvRbVJ4se6rf24vFkw%3D%3D/file/index.m3u8
 
 #EXTINF:0 group-title="Noticias", Canal de la Ciudad
 
