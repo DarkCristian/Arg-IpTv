@@ -45,7 +45,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3
 #EXTINF:0 group-title="Noticias",Telemax HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:0 group-title="Noticias",TN
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_ijGDo3iLYPot57Ah1zN_cGizSL0fJu5A31w=s900-c-k-c0xffffffff-no-rj-mo" "Noticias",TN
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584766658/ei/Ykp1XqfTIZe0xATcvrmQBw/ip/186.13.189.124/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhAKq_-gI3MAiZDEmAJifFZq8QFv677rlctp-DFGiz_MInAiAUd5CxRmp2aIzJeLRvLYEffB29mwBs6BGLUOUVWhwgdg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png",TLX
