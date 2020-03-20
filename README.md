@@ -27,3 +27,8 @@ Lista IpTV de Argentina
     https://raw.githubusercontent.com/srfarias/Arg-IpTv/master/m3u
     
 5. Esperar a que cargue y listo. 
+
+
+Creditos:
+
+iptv-org (algunos de los links pertenecen a sus recopilaciones de listas)
