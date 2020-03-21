@@ -21,6 +21,9 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/457.ts
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta
 http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Cronica HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584813559/ei/lwF2XsDbAsbnwATX87uQBw/ip/186.13.189.124/id/Az0j4H6tfg4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRAIgbFcwwp2SY04QOils_D6m4arbaKSEzh1foIuNlaE_A_ECIBXOKdARNK5ElQ2vpUK-WdidKJ9yojGyCweXzmBh5PJf/file/index.m3u8
+
 #EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -37,7 +40,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_ijGDo3iLYPot57Ah1zN_cGizSL0fJu5A31w=s900-c-k-c0xffffffff-no-rj-mo" "Noticias", TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584766658/ei/Ykp1XqfTIZe0xATcvrmQBw/ip/186.13.189.124/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhAKq_-gI3MAiZDEmAJifFZq8QFv677rlctp-DFGiz_MInAiAUd5CxRmp2aIzJeLRvLYEffB29mwBs6BGLUOUVWhwgdg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584813521/ei/cQF2Xq_GFsKywgTitLfYAw/ip/186.13.189.124/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhAPz8rETr_RR85L7HZ26izTe9Rs3j1kaPIpgAMAFYyMe9AiBtOJpKxYOuLXC4DoKH2rT9FNT7AZHaSDtnf3imb4FqxQ%3D%3D/file/index.m3u8
 
 #EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -46,13 +49,13 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 
 #EXTINF:0 group-title="Noticias" tvg-logo="https://2.bp.blogspot.com/-lSwLelo78ik/UnKcpUishtI/AAAAAAAAAM4/dj-BLSbgGqY/s1600/canal13-2.png", Trece
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584767777/ei/wE51Xv2qNJHcxwTrwYfgBA/ip/186.13.189.124/id/hqF_afzhLek.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882514/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhAODbLlyrZvz3q5sjCpTS9-lDuf4eQbuvWTGtKnd7aJJQAiBROBWKMFLbsDr-uR15tc1udzxVpvRbVJ4se6rf24vFkw%3D%3D/file/index.m3u8
+
 
 #EXTINF:0 group-title="Noticias" tvg-logo="https://www.laizquierdadiario.com/IMG/arton76387.png", Canal de la Ciudad
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584768792/ei/uFJ1Xp6yIsyLwQSEjpTIBQ/ip/186.13.189.124/id/LEDIrpazQMU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhAPvxqW2rErQQcvKUvCRySVBVUfbXRf78MDmeYgGyurGNAiAjb03Ycut1wF78VP8grBqC-mu8mhCo2RNnaRTYACsyKQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584813453/ei/LQF2XrPfJsb0wATSyYaYCw/ip/186.13.189.124/id/LEDIrpazQMU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhANuKjbgvCvBp7ZDo9aaSdM34l_LRjjUtLX1AdkUY5PD1AiEAivUYvaCl5qu62SkNeRBhmpsr_-DTMoRfrlCIKfqgDsI%3D/file/index.m3u8
 
 #EXTINF:0 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584768180/ei/VFB1XsCUJ5OEobIPusyliAo/ip/186.13.189.124/id/EZgrSHFXu_k.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882514/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIgN9rrN4VmE9v2kGsYOUM0OPSdPyYBnvoSzXt0PPiqsXUCIQDR3KsER1V2cm3fE7nwI1qo9mZ7lQCoilKu9MAvGLup_w%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584813635/ei/4wF2XrHfKaSEobIP_YWqiAE/ip/186.13.189.124/id/EZgrSHFXu_k.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIhAIxvfOHcd23Mfc9Lh65MD0OnyFVgU4hggyZiCU7lGmFmAiBxaFt_TZcH3IFb-Tcoa5Mm-CF4F6alNJVhsJWdssuDOQ%3D%3D/file/index.m3u8
 
 #EXTINF:0 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica (Opcion 2)
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
