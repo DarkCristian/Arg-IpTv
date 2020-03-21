@@ -234,6 +234,9 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/473.ts
 #EXTINF:-1 group-title="Infantiles", Disney XD
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/474.ts
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/kF29z8z.jpg", Locomotion TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
 #EXTINF:-1 group-title="Infantiles", Natgeo Kids
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/536.ts
 
