@@ -16,45 +16,51 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://puu.sh/x0JOO/262520c318.png", CNN en Español
-#
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11531
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta
 http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Cronica HD
-#
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Garage TV
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Encuentro
+https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 13 Max
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Noticias", Multivisión
+#EXTINF:-1 group-title="Noticias", Multivisión
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Noticias", Quatro TV
+#EXTINF:-1 group-title="Noticias", NTN24
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/37501
+
+#EXTINF:-1 group-title="Noticias", Quatro TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_ijGDo3iLYPot57Ah1zN_cGizSL0fJu5A31w=s900-c-k-c0xffffffff-no-rj-mo" "Noticias", TN
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_ijGDo3iLYPot57Ah1zN_cGizSL0fJu5A31w=s900-c-k-c0xffffffff-no-rj-mo" "Noticias", TN
 
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD (Opcion 2)
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://2.bp.blogspot.com/-lSwLelo78ik/UnKcpUishtI/AAAAAAAAAM4/dj-BLSbgGqY/s1600/canal13-2.png", Trece
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://2.bp.blogspot.com/-lSwLelo78ik/UnKcpUishtI/AAAAAAAAAM4/dj-BLSbgGqY/s1600/canal13-2.png", Trece
 
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://www.laizquierdadiario.com/IMG/arton76387.png", Canal de la Ciudad
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.laizquierdadiario.com/IMG/arton76387.png", Canal de la Ciudad
 
 
-#EXTINF:0 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica
 
 
 #EXTINF:0 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica (Opcion 2)
@@ -110,9 +116,21 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/7lvV8bM.png", FXM
 
+#EXTINF:-1 group-title="Premium" tvg-logo="", Golden
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/13115
+
 
 #EXTINF:-1 group-title="Premium", HBO
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11462
 
+#EXTINF:-1 group-title="Premium", HBO (Opcion 2)
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11463
+
+#EXTINF:-1 group-title="Premium", HBO Comedy
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11466
+
+#EXTINF:-1 group-title="Premium", HBO Latino
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11469
 
 #EXTINF:-1 group-title="Premium", HBO Plus
 
@@ -121,22 +139,26 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 group-title="Premium", HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
 
 #EXTINF:-1 group-title="Premium", HBO 2 (Opcion 2)
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+
 
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EsaA77Q.jpg", HBO Family
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11467
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EsaA77Q.jpg", HBO Family (Opcion 2)
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11468
 
 
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/kFkEVHy.jpg", HBO Signature
-
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11470
 
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EO0x9Vv.jpg", Max Prime
 
 
 #EXTINF:-1 group-title="Premium", Paramount
-http://paramount.live.flumotion.com/live/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Premium", Sony
 
@@ -148,7 +170,7 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Premium", Sundance
-
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/12694
 
 #EXTINF:-1 group-title="Premium", Syfy
 
@@ -175,7 +197,7 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Documentales", Discovery Channel
-
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44713
 
 #EXTINF:-1 group-title="Documentales", Discovery Civilization
 
@@ -199,7 +221,7 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Documentales", History
-
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44720
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png", Investigation Discovery
 
@@ -208,10 +230,10 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Documentales", Natgeo
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
 
 #EXTINF:-1 group-title="Documentales", Natgeo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
 
 
 ########## Infantiles ##########
@@ -223,10 +245,10 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 
 #EXTINF:-1 group-title="Infantiles", Cartoon Network
-http://maxptv.net:8080/live/morgana/morgana/524.m3u8
+
 
 #EXTINF:-1 group-title="Infantiles", Discovery Kids
-
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44712
 
 #EXTINF:-1 group-title="Infantiles", Disney Channel
 
@@ -246,34 +268,40 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 group-title="Infantiles", NickToons
 
 
+#EXTINF:-1 group-title="Infantiles", PakaPaka
+https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
+
 #EXTINF:-1 group-title="Infantiles", ToonCast
 
 
 
 ########## Deportes ##########
 
-#EXTINF:-1 group-title="Deportes", ESPN 1
+#EXTINF:-1 group-title="Deportes", AYM Sports
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/37771
 
+#EXTINF:-1 group-title="Deportes", DeporTV
+https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master_960x540_1400k.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN Deportes
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11530
 
 #EXTINF:-1 group-title="Deportes", ESPN 2
 
 
-#EXTINF:-1 group-title="Deportes", ESPN PLUS
-
-
-#EXTINF:-1 group-title="Deportes", ESPN SEC
-
-
-#EXTINF:-1 group-title="Deportes", ESPN U
-
-
 #EXTINF:-1 group-title="Deportes", Fox Sports 1
-
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44717
 
 #EXTINF:-1 group-title="Deportes", Fox Sports 2
 
+#EXTINF:-1 group-title="Deportes", TNT Sports
+http://heinentv.ddns.net:25461/mil/mil/16186?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="Deportes", Fox Sports 3
+#EXTINF:-1 group-title="Deportes", TNT Sports (Opcion 2)
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/37685
+
+#EXTINF:-1 group-title="Deportes", TyC Sports Internacional
+http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44733
 
 
 
@@ -366,23 +394,22 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 ########## Musica ##########
 
-#EXTINF:0 group-title="Musica",Music Top HD
+#EXTINF:-1 group-title="Musica",Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:0 group-title="Musica",Music Top
+#EXTINF:-1 group-title="Musica",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Musica",Melody Channel
+#EXTINF:-1 group-title="Musica",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
 
 #EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png",MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 
-
-#EXTINF:0 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:0 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV (Opcion 2)
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV (Opcion 2)
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
 
 
